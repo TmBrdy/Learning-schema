@@ -1,0 +1,41 @@
+/*Template CSS*/
+
+.schema{
+    height:880px;
+    background-color: grey;
+}
+
+.background{
+	background-color: black;
+	height: 20px;
+	background-size: 500px;
+	text-decoration: white;
+
+}
+.watermark{
+	color: white;
+	padding-bottom: 5px;
+	background-size: 500px;
+
+}
+
+.git{
+	background-color: black;
+	background-size: 20;
+	color: white;
+
+
+}
+
+.youtube{
+	background-color: black;
+	background-size: 20;
+	color: white;
+	padding-top: 20px;
+
+
+}
+html{
+	background-color: black;
+
+}
